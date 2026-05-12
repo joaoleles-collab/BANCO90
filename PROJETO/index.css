@@ -1,0 +1,144 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    width: 100%;
+    padding: 40px 0px;
+    background-color: #ba2d2d;
+    display: flex;
+    
+}
+
+#headeresquerdo{
+    width: 50%;
+    display: flex;
+     margin-left: 3% ;
+}
+
+#headerdireito{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    margin-right: 6%;
+}
+
+button{
+    background-color: #ba2d2d;
+    color: white;
+    height: 50px;
+    border: white solid 3px;
+
+    
+
+}
+
+.links{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+#banner{
+    width: 100%;
+    height: 80vh;
+ background-image: url(../images/banner.jpg);
+ background-size: cover;
+ margin: 10px 0px;
+}
+
+.inf{
+    width: 50%;
+    padding: 100px;
+    background-color: #f2871b8a;
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+    
+}
+
+#b2{
+    width: 20%;
+background-color: #302727;
+    border: #f2861b solid 3px;
+
+
+}
+
+#pay{
+display: flex;
+justify-content: center;
+
+}
+
+#formgeral{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.formas{
+    width: 500px;
+    display: flex;
+    border: gray solid 1px ;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.formas img{
+    width: 60%;
+}
+
+#geral{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+#section1{
+background-color: #302727;
+    width: 100%;
+    height: 500px ;
+    margin: 200px 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#text{
+    width: 50%;
+    display: flex;
+    color: white;
+    flex-direction: column;
+   padding: 60px;    
+
+}
+#imgesq{
+    width: 50%;
+    background-image: url(../images/bannerBeneficios.jpg);
+    height: 400px;
+    background-size: cover;
+background-position: center;
+margin-right: 2%;
+border-radius: 10px;
+}
+
+
+
+
+
+#div{
+background-color: #302727;
+    background-color: #ba2d2d;
+    background-color: #f2511b;
+    background-color: #f2861b;
+    background-color: #c7c730;
+    }
