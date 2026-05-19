@@ -1,0 +1,14 @@
+#backtab {
+    margin-left: 0%;
+    padding: 0%;
+    margin: 0px auto;
+    padding: 20px ;
+}
+
+#cardgeral1{
+    flex-direction: column;
+}
+
+.inf {
+    width: 50%;
+}
